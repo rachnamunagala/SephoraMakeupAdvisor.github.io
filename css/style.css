@@ -1,0 +1,45 @@
+h1{
+  text-align: center
+}
+h1{
+  color: #420e0e
+}
+p{
+  color: #420e0e
+}
+body{
+  background-color: #ffd9df
+}
+h1{
+  font-family: 'century gothic';
+}
+h1 {
+  font-size: 60px
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+p{
+  font-family: 'century gothic'
+}
+p{
+  text-align: center
+}
+ul{
+  font-family: 'century gothic'
+}
+p{
+  font-size: 20px
+}
+ul {
+  margin-left: 4em
+}
+p{
+  font-weight: bold
+}
+button{
+  display: block;
+  margin: auto;
+}
